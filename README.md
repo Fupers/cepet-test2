@@ -1,8 +1,11 @@
 # APP CEPET - Consulta UF
 ---
 ## Descripción
+
 Aplicación de consulta del valor de la UF en pesos chilenos dependiendo de la fecha solicitada
+
 ---
+
 ### Tecnologías usadas
 
 #### Frontend
@@ -47,7 +50,7 @@ python3 manage.py runserver
 ~~~
 npm run dev
 ~~~
-
+---
 ### Docker
 
 1. Iniciar docker desde su máquina (linux o windows)
@@ -56,4 +59,5 @@ npm run dev
 docker-compose up --build
 ~~~
 3. Buscar el contenerdor generado y abrir el url local del frontend
+---
 
